@@ -1,2 +1,2 @@
 # launchpad
-Trying to make a UI for setting environments!
+Making my own GUI for handling projects in 3D!
